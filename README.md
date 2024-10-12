@@ -3,7 +3,7 @@ PHP library to generate HTML code
 
 ## Install
 
-Note, PHP ~7.2 is required
+Note: Requires PHP 7.2+
 
 ```sh
 composer require oscarotero/html
