@@ -1,5 +1,5 @@
 {
-    "name": "oscarotero/html",
+    "name": "drewapicture/html",
     "type": "library",
     "description": "HTML generator",
     "keywords": ["html"],
@@ -11,12 +11,13 @@
             "email": "oom@oscarotero.com",
             "homepage": "http://oscarotero.com",
             "role": "Developer"
+        },
+        {
+            "name": "Drew Jaynes",
+            "homepage": "https://werdswords.com",
+            "role": "Developer"
         }
     ],
-    "support": {
-        "email": "oom@oscarotero.com",
-        "issues": "https://github.com/oscarotero/html/issues"
-    },
     "require": {
         "php": ">=7.2"
     },
